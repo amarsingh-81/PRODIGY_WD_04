@@ -1,8 +1,15 @@
-# PRODIGY_WD_04
-PERSONAL PORTFOLIO WEBSITE
+# Personal-Portfolio
 
-Welcome to my Personal Portfolio Website repository! This project is a comprehensive representation of my professional skills, projects, and experiences. It is built using HTML, CSS, and JavaScript to create an engaging and interactive experience for visitors. This portfolio serves as an online resume and a showcase of my work and accomplishments.
+Hello readers, To create a Fully Responsive Personal Portfolio Website using HTML CSS & JavaScript, web design stuff like [Navigation Bar, Cards, Image Slider, Owl Carousel, Buttons, and many more] but still, I haven’t created a full website and now it’s time to create a portfolio website.
+Personal portfolio sites are consistent that need to be taken care of throughout your work. It gives a convenient way for potential clients to view your work while also letting you expand on your skills/experiences and services.
+On this site [Personal Portfolio], there are five sections on one page – Home, About, Services, Skills, and Contact, and each section is attractive and eye-catching. On the home page of this site, on the top, there is a sticky navigation bar with a logo on the left side and some navigation links are on the right side.
+On the left side of the home page, there are texts which are about the author’s name, profession, and a button labeled “Hire me”.
 
-Features: Home Section: A welcoming introduction with a brief overview and a personal photograph. About Section: Detailed information about my background, education, and professional journey. Skills Section: A visual representation of my technical and soft skills. Services Section: An overview of the services I offer, such as web development, graphic design, consulting, and more. Contact Section: A contact form for visitors to get in touch with me, including social media links. Responsive Design: The website is fully responsive, ensuring a seamless experience across all devices, from desktops to smartphones.
+To create this website (Personal Portfolio Website), you need to create three Files: HTML File, CSS File, and JavaScript File.
+First, create an HTML file with the name of index.html and remember, you’ve to create a file with .html extension.
+Second, create a CSS file with the name of style.css and you’ve to create a file with .css extension.
+Last, create a JavaScript file with the name of script.js and you’ve to create a file with .js extension.
 
-Technologies Used: HTML: To structure the content and layout of the website. CSS: To style the website and enhance its visual appeal. JavaScript: To add interactivity and dynamic elements to the website.
+
+
+
